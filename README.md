@@ -1,6 +1,6 @@
 <!-- HEADER COM IMAGEM -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/banner.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/BiancaSalomao1/BiancaSalomao1/main/banner.png" width="100%"/>
 </p>
 
 <h1 align="center"> Bianca Salomão</h1>
