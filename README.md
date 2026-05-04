@@ -41,9 +41,8 @@ Migrei da área de saúde e pesquisa para tecnologia, trazendo pensamento analí
 
 ## 📊 Estatísticas
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiancaSalomao1&show_icons=true&theme=radical"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaSalomao1&layout=compact&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiancaSalomao1&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiancaSalomao1&theme=radical"/>
 
 <br>
 
