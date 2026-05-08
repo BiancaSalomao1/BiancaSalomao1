@@ -83,6 +83,9 @@ auth-api-spring-boot- API REST em Java com autenticação e boas práticas.
 
 ProjetoPessoalERP-CRM- Em desenvolvimento para aplicação de Projeto Assistencial
 
+### Python
+ProjetoExtracaoDados- Extração de dados de imagem. Desenvolvimento front e back.
+
 
 ### Flutter
 EducaFin - Aplicação financeira com cálculo de juros compostos e acompanhamento de metas.
